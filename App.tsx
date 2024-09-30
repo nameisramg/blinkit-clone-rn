@@ -1,4 +1,4 @@
-import { View, Text } from 'react-native';
+import 'react-native-gesture-handler';
 import React from 'react';
 import Navigation from '@navigations/Navigation';
 
